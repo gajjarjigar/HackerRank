@@ -23,3 +23,11 @@
 4 | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Introduction/finding-the-percentage.py)
 5 | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Introduction/python-lists.py)
 6 | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Introduction/python-tuples.py)
+
+### String
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Introduction/swap-case.py)
+2 | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Introduction/python-string-split-and-join.py)
+3 | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Introduction/whats-your-name.py)
+4 | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Introduction/python-mutations.py)
