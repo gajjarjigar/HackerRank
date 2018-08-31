@@ -1,2 +1,3 @@
-# HackerEarth
-HackerEarth
+# HackerRank
+
+> HackerRank solutions in Python 3
