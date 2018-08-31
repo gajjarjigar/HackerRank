@@ -14,7 +14,7 @@
 6 | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Introduction/write-a-function.py)
 7 | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Introduction/python-print.py)
 
-### Basic%20Data%20Types
+### Basic Data Types
 \# | Challenge | Solution
 :---:|:---:|:---:
 1 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic%20Data%20Types/list-comprehensions.py)
