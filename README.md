@@ -17,7 +17,7 @@
 ### Basic Data Types
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic Data Types/list-comprehensions.py)
+1 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution]("https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic Data Types/list-comprehensions.py")
 2 | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic Data Types/find-second-maximum-number-in-a-list.py)
 3 | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic Data Types/nested-list.py)
 4 | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic Data Types/finding-the-percentage.py)
