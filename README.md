@@ -14,15 +14,15 @@
 6 | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Introduction/write-a-function.py)
 7 | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Introduction/python-print.py)
 
-### Basic Data Types
+### Basic%20Data%20Types
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution]("https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic Data Types/list-comprehensions.py")
-2 | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic Data Types/find-second-maximum-number-in-a-list.py)
-3 | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic Data Types/nested-list.py)
-4 | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic Data Types/finding-the-percentage.py)
-5 | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic Data Types/python-lists.py)
-6 | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic Data Types/python-tuples.py)
+1 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic%20Data%20Types/list-comprehensions.py)
+2 | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic%20Data%20Types/find-second-maximum-number-in-a-list.py)
+3 | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic%20Data%20Types/nested-list.py)
+4 | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic%20Data%20Types/finding-the-percentage.py)
+5 | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic%20Data%20Types/python-lists.py)
+6 | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Basic%20Data%20Types/python-tuples.py)
 
 ### String
 \# | Challenge | Solution
