@@ -31,3 +31,4 @@
 2 | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Strings/python-string-split-and-join.py)
 3 | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Strings/whats-your-name.py)
 4 | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Strings/python-mutations.py)
+5 | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Strings/find-a-string.py)
