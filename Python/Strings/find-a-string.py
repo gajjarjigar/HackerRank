@@ -8,6 +8,18 @@ def count_substring(string, sub_string):
         
     return count
     
+def count_substring_2(string, sub_string):
+    count = 0
+    start = 0
+    
+    while True:
+        start = string.find(sub_string, start) + 1
+        if start > 0:
+            count += 1
+        else:
+            return start
+    
+    
 if __name__ == '__main__':
     string = input().strip()
     sub_string = input().strip()
