@@ -40,3 +40,9 @@
 12 | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Strings/alphabet-rangoli.py)
 13 | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Strings/the-minion-game.py)
 14 | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Strings/merge-the-tools.py)
+
+### Sets
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-introduction-to-sets.py)
+2 | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/no-idea.py)
