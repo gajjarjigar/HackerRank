@@ -47,3 +47,6 @@
 1 | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-introduction-to-sets.py)
 2 | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/no-idea.py)
 3 | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/symmetric-difference.py)
+4 | [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-add.py)
+5 | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-discard-remove-pop.py)
+6 | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-intersection-operation.py)
