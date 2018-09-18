@@ -46,3 +46,4 @@
 :---:|:---:|:---:
 1 | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-introduction-to-sets.py)
 2 | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/no-idea.py)
+3 | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/symmetric-difference.py)
