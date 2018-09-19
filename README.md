@@ -50,3 +50,9 @@
 4 | [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-add.py)
 5 | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-discard-remove-pop.py)
 6 | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-intersection-operation.py)
+7 | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-union.py)
+8 | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-difference-operation.py)
+9 | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-symmetric-difference-operation.py)
+10 | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-symmetric-difference-operation.py)
+11 | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-mutations.py)
+
