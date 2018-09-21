@@ -59,3 +59,13 @@
 13 | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-check-subset.py)
 14 | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-check-strict-superset.py)
 
+### Math
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Math/polar-coordinates.py)
+2 | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Math/find-angle.py)
+3 | [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Math/triangle-quest-2.py)
+4 | [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Math/python-mod-divmod.py)
+5 | [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Math/python-power-mod-power.py)
+6 | [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Math/python-quest-1.py)
+7 | [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Math/python-integers-come-in-all-sizes.py)
