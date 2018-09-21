@@ -69,3 +69,9 @@
 5 | [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Math/python-power-mod-power.py)
 6 | [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Math/python-quest-1.py)
 7 | [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Math/python-integers-come-in-all-sizes.py)
+
+### Debugging
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Words Score](https://www.hackerrank.com/challenges/words-score/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Debugging/words-score.py)
+2 | [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Debugging/default-arguments.py)
