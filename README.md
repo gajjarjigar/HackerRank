@@ -55,4 +55,7 @@
 9 | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-symmetric-difference-operation.py)
 10 | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-symmetric-difference-operation.py)
 11 | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-set-mutations.py)
+12 | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-the-captains-room.py)
+13 | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-check-subset.py)
+14 | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution](https://github.com/gajjarjigar/HackerRank/blob/master/Python/Sets/py-check-strict-superset.py)
 
